@@ -12,7 +12,7 @@ body {
 @keyframes rotation {
   0% {
     width: 200px;
-    background: #aaa;
+    background: green;
   }
   
   50% {
