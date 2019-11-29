@@ -15,13 +15,8 @@ body {
     background: #aaa;
   }
   
-  20%{
-    height: 500px;
-    background: #eee;
-  }
-
   50% {
-    width: 400px;
+    height: 500px;
     background: red;
   }
 
