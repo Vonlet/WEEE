@@ -21,12 +21,12 @@ body {
   }
 
   50% {
-    width: 800px;
+    width: 400px;
     background: red;
   }
 
   100% {
-    width: 1000px;
+    width: 600px;
     background: blue;
   }
 }
